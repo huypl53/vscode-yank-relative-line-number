@@ -6,9 +6,13 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "publisher": "huypl53",
   "categories": [
     "Other"
   ],
+  "repository": {
+    "url": "https://github.com/huypl53/vscode-yank-relative-line-number.git"
+  },
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
