@@ -4,7 +4,7 @@
 
 You can copy the line number of opened file and use it to make markdown link conviniently
 
-[Copy line number and path](images/yank-line-with-number.png)
+[Copy line number and path](yank-line-with-number.png)
 
 ## Requirements
 
